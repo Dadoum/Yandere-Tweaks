@@ -1,0 +1,24 @@
+﻿Changed :
+/*GUI.DrawTexture(new Rect(Screen.width / 2, 0, Screen.width, Screen.height), mod);
+            scrollPosition = GUI.BeginScrollView(new Rect(Screen.width / 2, 160, Screen.width / 2, Screen.height), scrollPosition, new Rect(Screen.width / 2, 0, Screen.width / 2 - Screen.width / 25, ((str.Split('\n').Length) * 25) + 1));
+
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+
+            GUIStyle style = new GUIStyle();
+            style.fontSize = 25;
+            style.normal.textColor = Color.white;
+            GUI.Label(new Rect(Screen.width / 2 + 2, 0, Screen.width / 2, Screen.height), str, style);
+
+            // End the scroll view that we began above.
+            GUI.EndScrollView();
+
+            if (FindObjectOfType<TitleMenuScript>().GetComponent<TitleMenuScript>().SimulatorLabel.color == new Color(1f, 0f, 0f, 1f))
+            {
+                mod = new WWW("file:///" + Application.dataPath + "/Yandere_Loader/textures/mods_menu_dark.png").texture;
+            }
+            else 
+            {
+                mod = new WWW("file:///" + Application.dataPath + "/Yandere_Loader/textures/mods_menu.png").texture;
+            }*/
+

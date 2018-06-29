@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+
+    <data name="yanexe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>C:\Users\Dadoum\Documents\Projects\Yandere\Loader\YandereSimulator.exe;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+   <data name="picture1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\Debug\YandereSimulator_Data\Yandere_Loader\textures\mods_menu.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="picture2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\Debug\YandereSimulator_Data\Yandere_Loader\textures\mods_menu_dark.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+   <data name="picture3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\Debug\YandereSimulator_Data\Yandere_Loader\textures\command_bar.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+   <data name="ymldll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\Debug\mods\YML\YanLoaderMod.dll;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+   <data name="ymljson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\Debug\mods\YML\modpkg.json;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+    
+</root>

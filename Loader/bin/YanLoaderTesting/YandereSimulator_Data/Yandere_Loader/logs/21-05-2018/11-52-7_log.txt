@@ -1,0 +1,5 @@
+[11:52:8] [CRITICAL]: Failed to patch dll: System.IO.DirectoryNotFoundException: Impossible de trouver une partie du chemin d'accès 'YandereSimulator_Data/Managed/Assembly-CSharp.dll'.
+   à System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   à System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   à System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   à ModLoader.patch_dll()

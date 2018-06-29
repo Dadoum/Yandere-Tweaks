@@ -1,0 +1,12 @@
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\Debug\Loader.exe
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\Debug\Loader.pdb
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\Debug\Mono.Cecil.dll
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\obj\x86\Debug\Loader.csprojAssemblyReference.cache
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\obj\x86\Debug\Loader.Properties.Resources.resources
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\obj\x86\Debug\Loader.csproj.GenerateResource.cache
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\obj\x86\Debug\Loader.csproj.CoreCompileInputs.cache
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\obj\x86\Debug\Loader.csproj.CopyComplete
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\obj\x86\Debug\Loader.exe
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\obj\x86\Debug\Loader.pdb

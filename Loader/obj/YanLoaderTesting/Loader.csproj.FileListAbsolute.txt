@@ -1,0 +1,7 @@
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\YanLoaderTesting\Loader.exe
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\YanLoaderTesting\Mono.Cecil.dll
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\YanLoaderTesting\Newtonsoft.Json.dll
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\bin\YanLoaderTesting\Newtonsoft.Json.xml
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\obj\YanLoaderTesting\Loader.csproj.CoreCompileInputs.cache
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\obj\YanLoaderTesting\Loader.csproj.CopyComplete
+C:\Users\Dadoum\Documents\Projects\Yandere\Loader\obj\YanLoaderTesting\Loader.exe
